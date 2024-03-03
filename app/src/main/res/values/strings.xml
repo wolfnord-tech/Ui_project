@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ui_project</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="welcome_to_android">Welcome to Android</string>
+    <string name="hello_from_java">Hello from Java</string>
+    <string name="start">Start</string>
+</resources>
